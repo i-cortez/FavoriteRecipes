@@ -1,0 +1,23 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+.nav-bar {
+    background-color: dimgray;
+    color: black;
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    text-align: left;
+}
+
+.image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
